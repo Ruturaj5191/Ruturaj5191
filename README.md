@@ -1,52 +1,123 @@
 # Hi there, I'm Ruturaj Vidhate 👋
 
-### 🚀 Software Developer | Full-Stack Enthusiast | Cloud & API Builder  
-I’m a passionate developer who enjoys building scalable, user-friendly web applications using modern technologies. I love exploring new tools, improving system performance, and crafting clean, maintainable code. I actively work on full-stack projects and continuously sharpen my skills in backend systems, APIs, and cloud deployment.
+### 🚀 Software Developer | Backend & Full-Stack Engineer | Cloud & API Builder  
 
-- 🔭 **Current Focus:** Full-Stack Development, APIs & Cloud Deployment  
-- 🌱 **Learning:** Advanced Backend Architecture & System Design  
-- 💬 **Ask me about:** React, Node.js, Django, MySQL, AWS, or REST APIs  
-- ⚡ **Interests:** UI/UX Design, Open-Source, Problem Solving  
+Results-driven **Software Developer with 1+ years of hands-on experience** in **Python, Django, Django REST Framework, and Node.js/Express.js**. Specialized in building **secure, scalable REST APIs**, implementing complete **CRUD workflows**, and integrating modern frontends with backend services. Strong understanding of **MVC/MVT architecture, OOP principles, asynchronous programming**, and database optimization using **MySQL and MongoDB**.  
+Currently seeking opportunities as a **Backend or Full-Stack Developer** to contribute to scalable, production-grade systems.
+
+- 📍 **Location:** Pune, Maharashtra, India  
+- 🔭 **Current Focus:** Backend Systems, REST APIs & Cloud Deployment  
+- 🌱 **Learning:** Advanced System Design & Scalable Architecture  
+- 💬 **Ask me about:** Django, DRF, Node.js, MySQL, MongoDB, AWS  
+- ⚡ **Interests:** API Design, Clean Architecture, Open-Source  
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 📬 Contact & Profiles
+
+- 📞 **Phone:** +91 8999758738  
+- 📧 **Email:** ruturajvidhate5656@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/ruturaj-vidhate1](https://linkedin.com/in/ruturaj-vidhate1)  
+- 💻 **GitHub:** [github.com/Ruturaj5191](https://github.com/Ruturaj5191)  
+- 🌐 **Portfolio:** [portfolio-ruturaj.vercel.app](https://portfolio-ruturaj.vercel.app)
+
+---
+
+## 🎓 Education
+
+**Master of Computer Applications (MCA)** — *2024 – 2026*  
+Savitribai Phule Pune University  
+
+**Bachelor of Computer Applications (BCA)** — *2021 – 2024*  
+New Arts, Commerce and Science College, Ahilyanagar  
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Frontend** | React.js, React Native, HTML5, CSS3, Tailwind CSS, Bootstrap |
-| **Backend** | Node.js, Express.js, Django, FastAPI, REST APIs |
-| **Databases** | MongoDB, MySQL, SQLite, DynamoDB |
-| **Cloud & DevOps** | AWS, Vercel, Render, Linux |
-| **Programming** | JavaScript, TypeScript, Python, Java |
-| **Tools** | Git & GitHub, VS Code, Postman, MySQL Workbench, Canva |
+| **Languages** | Python, JavaScript (ES6+), SQL, HTML5, CSS3, Java |
+| **Backend** | Django, Django REST Framework, Node.js, Express.js, FastAPI, REST APIs |
+| **Frontend** | React.js, React Native, Bootstrap 5, Tailwind CSS, jQuery, AJAX |
+| **Databases** | MySQL, MongoDB, SQLite, DynamoDB |
+| **Cloud & DevOps** | AWS (Basic), Docker (Basic), Linux, Vercel, Render |
+| **Tools** | Git, GitHub, VS Code, Postman, MySQL Workbench, Canva |
+| **Concepts** | JWT Auth, RBAC, MVC/MVT, OOP, Async/Await |
 
 ---
 
-### 📂 Projects & Work
+## 💼 Professional Experience
 
-Here are some projects I’ve built and contributed to:
+### Software Developer — *Mar 2025 – Present*  
+**WorknAI Technologies Pvt. Ltd., Pune**
+- Backend-focused development using **Python, Django, Django REST Framework**, and **Node.js (Express.js)**.
+- Designed and optimized **RESTful APIs** with **JWT authentication** and **role-based access control (RBAC)**.
+- Worked extensively with **MySQL** for schema design, CRUD operations, and query optimization.
+- Integrated backend APIs with **React.js frontend**, contributing to a **Car Rental System**.
+- Performed API testing, debugging, and version control using **Postman** and **Git/GitHub**.
 
-#### 🩸 Raktdaan – Blood Donation Platform  
-*A web platform to manage blood donation drives and donor data efficiently.*
-- **Role:** Full-Stack Developer  
-- **Tech:** MERN Stack, JWT Authentication  
-- **Highlights:** Secure role-based access and campaign management  
-
-#### 🏢 eSeva Portal  
-*A government service portal for managing document requests digitally.*
-- **Role:** Backend Developer & System Designer  
-- **Tech:** Django, SQL, Python  
-- **Highlights:** Optimized request handling and data flow  
-
-#### 🌐 Portfolio Website  
-*A personal portfolio showcasing my projects and skills.*
-- **Tech:** React, Vercel  
-- **Focus:** Clean UI, performance, and responsiveness  
+### Python Developer Intern — *Jun 2024 – Jan 2025*  
+**A2Z IT Hub Pvt. Ltd., Ahmednagar**
+- Developed backend modules and REST APIs using **Python, Django, and Django REST Framework**.
+- Implemented CRUD operations, validations, and optimized **MySQL models** using Django ORM.
+- Tested and debugged APIs using **Postman** and maintained code with **Git/GitHub**.
 
 ---
 
-### 🔥 GitHub Activity
+## 📂 Featured Projects
+
+### 🩸 Raktdaan – Blood Donation Management System  
+🔗 **Live:** https://raktdaan.online/
+- Built a blood donation platform using **Node.js, Express.js, and MongoDB**.
+- Developed REST APIs for donor registration, organizer enquiries, and admin management.
+- Implemented **role-based access** for Admin, Organizer, and Donor modules.
+- Focused on validation, error handling, and scalable backend design.
+
+### 🚗 Car Rental System  
+**Tech:** Node.js, Express.js, React.js, MySQL
+- Designed backend features for car listing, booking workflows, and real-time availability.
+- Implemented **JWT-based authentication** and **RBAC** for Admin and User roles.
+- Built optimized MySQL schemas for users, cars, bookings, and payments.
+- Integrated React dashboards with backend APIs for admin and user flows.
+
+### 🛒 E-Commerce Platform  
+**Tech:** Python, Django, Django REST Framework, MySQL
+- Developed secure REST APIs for authentication, product catalog, cart, and order processing.
+- Designed optimized MySQL schemas using Django ORM.
+- Integrated frontend with backend APIs with focus on reliability and scalability.
+
+### 🔐 Smart_Key – Digital Key Management System  
+**Tech:** Django, Django REST Framework, MySQL
+- Built a secure backend system for **digital key issuance, tracking, and access control**.
+- Implemented role-based access, approval workflows, and audit logging.
+- Designed relational schemas and optimized queries for key transactions and history.
+
+### 💳 PayIndia Studio – Payment & Service Platform  
+**Tech:** Node.js, Express.js, MySQL
+- Developed backend APIs for service management and transaction workflows.
+- Implemented authentication, validation, and clean API response structures.
+- Focused on performance, scalability, and secure data handling.
+
+---
+
+## 📜 Certifications
+
+- Full Stack Development – Python, Django, MySQL, Node.js, Express.js, React.js  
+- Python, Django & Node.js Backend Development  
+- REST API Development and Integration  
+
+---
+
+## 🌍 Languages
+
+- **English:** Fluent  
+- **Hindi:** Fluent  
+- **Marathi:** Native  
+
+---
+
+## 🔥 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruturaj5191&theme=radical&hide_border=true" />
@@ -54,7 +125,7 @@ Here are some projects I’ve built and contributed to:
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ruturaj5191&theme=dark&hide_border=true" />
@@ -64,22 +135,4 @@ Here are some projects I’ve built and contributed to:
 
 ---
 
-### 📬 Connect with Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/ruturaj-vidhate1">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-  </a>
-  &nbsp;
-  <a href="mailto:ruturajvidhate5656@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-  </a>
-  &nbsp;
-  <a href="https://portfolio-ruturaj.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35"/>
-  </a>
-</div>
-
----
-
-⭐ *If you like my work, feel free to follow and connect — let’s build something awesome together!*  
+⭐ *If you like my work, feel free to connect — I’m always open to collaboration and new opportunities.*
