@@ -38,10 +38,10 @@ New Arts, Commerce and Science College, Ahilyanagar
 | **Category** | **Technologies** |
 | :--- | :--- |
 | **Languages** | Python, JavaScript (ES6+), SQL, HTML5, CSS3, Java |
-| **Backend** | Django, Django REST Framework, Node.js, Express.js, FastAPI, REST APIs |
+| **Backend** | Django, Django REST Framework, Node.js, Express.js, FastAPI, REST APIs | Next.js
 | **Frontend** | React.js, React Native, Bootstrap 5, Tailwind CSS, jQuery, AJAX |
 | **Databases** | MySQL, MongoDB, SQLite, DynamoDB |
-| **Cloud & DevOps** | AWS (Basic), Docker (Basic), Linux, Vercel, Render |
+| **Cloud & DevOps** | AWS (Basic), Docker (Basic), Jenkins, Linux, Vercel, Render |
 | **Tools** | Git, GitHub, VS Code, Postman, MySQL Workbench, Canva |
 | **Concepts** | JWT Auth, RBAC, MVC/MVT, OOP, Async/Await |
 
