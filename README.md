@@ -49,15 +49,15 @@ New Arts, Commerce and Science College, Ahilyanagar
 
 ## 💼 Professional Experience
 
-### Software Developer — *Mar 2025 – Present*  
-**WorknAI Technologies Pvt. Ltd., Pune**
+### Software Developer — *Nov 2025 – Present*  
+** Utech India Pvt. Ltd., Pune**
 - Backend-focused development using **Python, Django, Django REST Framework**, and **Node.js (Express.js)**.
 - Designed and optimized **RESTful APIs** with **JWT authentication** and **role-based access control (RBAC)**.
 - Worked extensively with **MySQL** for schema design, CRUD operations, and query optimization.
 - Integrated backend APIs with **React.js frontend**, contributing to a **Car Rental System**.
 - Performed API testing, debugging, and version control using **Postman** and **Git/GitHub**.
 
-### Python Developer Intern — *Jun 2024 – Jan 2025*  
+### Python Developer Intern — *Jun 2025 – July 2025*  
 **A2Z IT Hub Pvt. Ltd., Ahmednagar**
 - Developed backend modules and REST APIs using **Python, Django, and Django REST Framework**.
 - Implemented CRUD operations, validations, and optimized **MySQL models** using Django ORM.
