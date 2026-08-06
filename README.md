@@ -19,7 +19,7 @@ Currently seeking opportunities as a **Backend or Full-Stack Developer** to cont
 - 📧 **Email:** ruturajvidhate5656@gmail.com  
 - 🔗 **LinkedIn:** [linkedin.com/in/ruturaj-vidhate1](https://linkedin.com/in/ruturaj-vidhate1)  
 - 💻 **GitHub:** [github.com/Ruturaj5191](https://github.com/Ruturaj5191)  
-- 🌐 **Portfolio:** [portfolio-ruturaj.vercel.app](https://portfolio-ruturaj.vercel.app)
+- 🌐 **Portfolio:** [portfolio-ruturaj.vercel.app](https://portfolio-cxtj.vercel.app/)
 
 ---
 
